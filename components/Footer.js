@@ -1,8 +1,8 @@
 const Footer = () => {
   return (
-    <section className="max-w-[80%] mx-auto grid grid-cols-1 md:grid-cols-3 text-center gap-10 mt-10 pb-10">
+    <section className="mx-auto grid grid-cols-1 md:grid-cols-3 text-center gap-10 mt-10 pb-10 bg-black text-white">
       <div className="flex flex-col items-center space-y-3 shadow-2xl rounded-md p-3">
-          <h1 className="font-bold text-lg">Postal Code</h1>
+          <h1 className="font-bold text-lg">Location</h1>
           <p className="text-left font-semibold">1895 Coleman Avenue, Bermuda Dunes, CA</p>
       </div>
       <div className="flex flex-col items-center space-y-3 shadow-2xl rounded-md p-3">
