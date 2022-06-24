@@ -19,7 +19,7 @@ const sampleData = [
     img: Wings,
   },
   {
-    title: "Lemon pepper wings",
+    title: "Boneless wings",
     price: 10.5,
     category: "wings",
     id: 3,
@@ -84,7 +84,7 @@ const sampleData = [
     img: Drinks,
   },
   {
-    title: "Vodka Cranberry",
+    title: "Vodka",
     price: 10.5,
     category: "drinks",
     id: 12,
